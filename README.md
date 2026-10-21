@@ -2,7 +2,7 @@
 
 - **Họ tên:** Mai Quốc Đạt
 - **Lớp:* CNTT1
-- **Link repository:**
+- **Link repository:**https://github.com/Datmai189/CNTT1_Nhap-mon-CNTT_OnTap-Ngay2
 - **Hệ điều hành (Windows/macOS):**macOS
 
 ## Bài 1. Lọc log thủ công
